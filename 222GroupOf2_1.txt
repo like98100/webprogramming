@@ -2,3 +2,6 @@ Main DPS -> Winprogramming/OOP
 Sub DPS -> Japanese/Math
 Tank 	-> HCI
 Support -> Recreation
+Flex 	-> Computer struct
+
+sejong study
