@@ -1,0 +1,4 @@
+Main DPS -> Winprogramming/OOP
+Sub DPS -> Japanese/Math
+Tank 	-> HCI
+Support -> Recreation
